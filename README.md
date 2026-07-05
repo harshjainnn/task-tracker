@@ -414,7 +414,6 @@ TESTING_CHECKLIST.md
 ```
 
 Main checks:
-
 - Signup
 - Login
 - Logout
