@@ -4,6 +4,7 @@ Team Task Manager is a full-stack web application for managing projects, assigni
 
 The application includes authentication, role-based authorization, project management, task management, dashboard analytics, project member assignment, protected frontend routes, and deployment-ready configuration.
 
+
 ## Tech Stack
 
 ### Frontend
